@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "fa31d9ce_fea3894d",
+        "filename": "distilclient/base.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa31d9ce_f3d582b9",
+      "range": {
+        "startLine": 97,
+        "startChar": 8,
+        "endLine": 99,
+        "endChar": 58
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa31d9ce_53e56ea6",
         "filename": "distilclient/base.py",
         "patchSetId": 3
@@ -36,6 +60,30 @@
       "writtenOn": "2017-02-09T22:22:42Z",
       "side": 1,
       "message": "manila",
+      "range": {
+        "startLine": 103,
+        "startChar": 7,
+        "endLine": 104,
+        "endChar": 50
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa31d9ce_1e893dcb",
+        "filename": "distilclient/base.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa31d9ce_53e56ea6",
       "range": {
         "startLine": 103,
         "startChar": 7,
@@ -71,6 +119,30 @@
     },
     {
       "key": {
+        "uuid": "fa31d9ce_9ebb6d75",
+        "filename": "distilclient/common/apiclient/client.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa31d9ce_939446e9",
+      "range": {
+        "startLine": 65,
+        "startChar": 0,
+        "endLine": 65,
+        "endChar": 48
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa31d9ce_5381ee8e",
         "filename": "distilclient/common/apiclient/client.py",
         "patchSetId": 3
@@ -82,6 +154,30 @@
       "writtenOn": "2017-02-09T22:22:42Z",
       "side": 1,
       "message": "manila, but not an issue really in this case. Although this docstring may also make no sense in context.",
+      "range": {
+        "startLine": 270,
+        "startChar": 8,
+        "endLine": 292,
+        "endChar": 11
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa31d9ce_febaa96d",
+        "filename": "distilclient/common/apiclient/client.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 292,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa31d9ce_5381ee8e",
       "range": {
         "startLine": 270,
         "startChar": 8,
@@ -117,6 +213,30 @@
     },
     {
       "key": {
+        "uuid": "fa31d9ce_1eb05d8b",
+        "filename": "distilclient/common/httpclient.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa31d9ce_1302163f",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 35
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa31d9ce_331d5a10",
         "filename": "distilclient/v2/client.py",
         "patchSetId": 3
@@ -140,6 +260,30 @@
     },
     {
       "key": {
+        "uuid": "fa31d9ce_15146842",
+        "filename": "distilclient/v2/client.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa31d9ce_331d5a10",
+      "range": {
+        "startLine": 27,
+        "startChar": 4,
+        "endLine": 50,
+        "endChar": 7
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa31d9ce_f3ebc2ae",
         "filename": "distilclient/v2/client.py",
         "patchSetId": 3
@@ -151,6 +295,30 @@
       "writtenOn": "2017-02-09T22:22:42Z",
       "side": 1,
       "message": "NIT: usages isn\u0027t right as technically in this context \u0027usage\u0027 is already plural (English is a weird language). Although if you wanted clear plural you can do \"usage_entries\" which would make more sense and be much clearer anyway.",
+      "range": {
+        "startLine": 188,
+        "startChar": 13,
+        "endLine": 188,
+        "endChar": 28
+      },
+      "revId": "897fabcd86fe2c5441ce860330aa5a1512054b01",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa31d9ce_551ee063",
+        "filename": "distilclient/v2/client.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-02-13T03:31:27Z",
+      "side": 1,
+      "message": "Done.\n\nMaybe we could change this to \u0027samples\u0027 and the endpoint name.",
+      "parentUuid": "fa31d9ce_f3ebc2ae",
       "range": {
         "startLine": 188,
         "startChar": 13,
