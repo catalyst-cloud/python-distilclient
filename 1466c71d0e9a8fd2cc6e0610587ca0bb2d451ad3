@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da36d5c6_7b33a262",
+        "filename": "distilclient/exc.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 6732
+      },
+      "writtenOn": "2017-02-22T22:09:39Z",
+      "side": 1,
+      "message": "Why not delete this class in favor of exceptions.py?",
+      "revId": "1466c71d0e9a8fd2cc6e0610587ca0bb2d451ad3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
