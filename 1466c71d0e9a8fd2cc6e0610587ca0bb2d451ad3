@@ -16,6 +16,24 @@
       "revId": "1466c71d0e9a8fd2cc6e0610587ca0bb2d451ad3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_ac5dde7a",
+        "filename": "distilclient/exc.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 10420
+      },
+      "writtenOn": "2017-02-23T00:23:18Z",
+      "side": 1,
+      "message": "Chances are since he didn\u0027t want to edit the shell code, as we\u0027ll replace that with an openstackclient plugin style component later.",
+      "parentUuid": "da36d5c6_7b33a262",
+      "revId": "1466c71d0e9a8fd2cc6e0610587ca0bb2d451ad3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
