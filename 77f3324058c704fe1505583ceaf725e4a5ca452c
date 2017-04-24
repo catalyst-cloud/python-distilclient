@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_6b60bf33",
+        "filename": "distilclient/v2/measurements.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 10420
+      },
+      "writtenOn": "2017-04-24T05:33:06Z",
+      "side": 1,
+      "message": "project_id should be an optional argument.",
+      "range": {
+        "startLine": 20,
+        "startChar": 8,
+        "endLine": 20,
+        "endChar": 43
+      },
+      "revId": "77f3324058c704fe1505583ceaf725e4a5ca452c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_4b550350",
+        "filename": "distilclient/v2/measurements.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 10420
+      },
+      "writtenOn": "2017-04-24T05:33:06Z",
+      "side": 1,
+      "message": "you\u0027ll want a variant of this if project_id is none.",
+      "range": {
+        "startLine": 24,
+        "startChar": 8,
+        "endLine": 25,
+        "endChar": 48
+      },
+      "revId": "77f3324058c704fe1505583ceaf725e4a5ca452c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
