@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_2b18917f",
+        "filename": "distilclient/v1/client.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 19930
+      },
+      "writtenOn": "2017-06-09T09:49:39Z",
+      "side": 1,
+      "message": "Please import six as a third party lib.",
+      "revId": "7f85115d6f4a5309289b39875e15a3d22c2c7ec6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
