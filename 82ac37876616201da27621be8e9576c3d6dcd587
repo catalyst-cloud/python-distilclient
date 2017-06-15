@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_c3ba8e6c",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 19741
+      },
+      "writtenOn": "2017-06-15T02:16:23Z",
+      "side": 1,
+      "message": "add this: openssl-devel [platform:rpm]",
+      "revId": "82ac37876616201da27621be8e9576c3d6dcd587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
