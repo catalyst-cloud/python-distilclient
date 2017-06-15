@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_6ea96122",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 19741
+      },
+      "writtenOn": "2017-06-15T03:10:00Z",
+      "side": 1,
+      "message": "if you did not want to use nose for testing coverage, I think you should remove these lines.\n\nOtherwise, you can change the commands below to:\ncommands \u003d nosetests {posargs:test/unit}",
+      "range": {
+        "startLine": 11,
+        "startChar": 9,
+        "endLine": 16,
+        "endChar": 32
+      },
+      "revId": "554a93af250465f7b350ecbfbe4d94481afecc92",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
