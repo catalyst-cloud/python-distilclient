@@ -22,6 +22,30 @@
       "revId": "554a93af250465f7b350ecbfbe4d94481afecc92",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_a7db3eeb",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-07-04T03:11:42Z",
+      "side": 1,
+      "message": "Thanks for the comments. Could you please submit a separated patch to improve this? Thanks.",
+      "parentUuid": "7f231b9d_6ea96122",
+      "range": {
+        "startLine": 11,
+        "startChar": 9,
+        "endLine": 16,
+        "endChar": 32
+      },
+      "revId": "554a93af250465f7b350ecbfbe4d94481afecc92",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
