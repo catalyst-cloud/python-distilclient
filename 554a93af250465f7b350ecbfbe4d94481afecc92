@@ -46,6 +46,29 @@
       "revId": "554a93af250465f7b350ecbfbe4d94481afecc92",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_59ad6e86",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 25254
+      },
+      "writtenOn": "2017-07-04T04:10:35Z",
+      "side": 1,
+      "message": "Need to add report for cover testenv as following:\n\"commands \u003d\n  coverage erase\n  find . -type f -name \"*.pyc\" -delete\n  python setup.py testr --coverage --testr-args\u003d\u0027{posargs}\u0027\n  coverage report\"",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 68
+      },
+      "revId": "554a93af250465f7b350ecbfbe4d94481afecc92",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
