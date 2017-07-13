@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f1a1f67_062da894",
+        "filename": "distilclient/v2/health.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 6732
+      },
+      "writtenOn": "2017-07-13T03:51:21Z",
+      "side": 1,
+      "message": "actually, \u0027health\u0027 here is useless",
+      "revId": "c6db2ef8a441efe7ab59806900c39268509b0dc9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f1a1f67_a6403437",
+        "filename": "distilclient/v2/products.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 6732
+      },
+      "writtenOn": "2017-07-13T03:51:21Z",
+      "side": 1,
+      "message": "We support to get products based on regions, but I don\u0027t think we now have real use cases for that.",
+      "revId": "c6db2ef8a441efe7ab59806900c39268509b0dc9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
