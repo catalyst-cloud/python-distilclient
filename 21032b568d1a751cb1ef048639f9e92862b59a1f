@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "1f1a1f67_5c1f6d5a",
+        "filename": "distilclient/tests/unit/v2/test_health.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 10420
+      },
+      "writtenOn": "2017-07-17T23:36:40Z",
+      "side": 1,
+      "message": "This doesn\u0027t throw an error because the real _list() function is never called, so we don\u0027t see that it needs 2 params.",
+      "range": {
+        "startLine": 37,
+        "startChar": 8,
+        "endLine": 37,
+        "endChar": 50
+      },
+      "revId": "21032b568d1a751cb1ef048639f9e92862b59a1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1f1a1f67_413d4adb",
         "filename": "distilclient/v2/health.py",
         "patchSetId": 6
