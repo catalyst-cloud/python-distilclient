@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f1a1f67_413d4adb",
+        "filename": "distilclient/v2/health.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 10420
+      },
+      "writtenOn": "2017-07-17T23:35:04Z",
+      "side": 1,
+      "message": "This will likely throw an error as the _list() function does take at least 2 params: https://github.com/openstack/python-distilclient/blob/master/distilclient/base.py#L56\n\nWould _get() work here instead?",
+      "range": {
+        "startLine": 32,
+        "startChar": 8,
+        "endLine": 32,
+        "endChar": 30
+      },
+      "revId": "21032b568d1a751cb1ef048639f9e92862b59a1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f1a1f67_c1015a08",
+        "filename": "distilclient/v2/products.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 10420
+      },
+      "writtenOn": "2017-07-17T23:35:04Z",
+      "side": 1,
+      "message": "Could use _get() here instead as well, because currently with no resource_class defined, this call to _list() will exit here:\nhttps://github.com/openstack/python-distilclient/blob/master/distilclient/base.py#L63-L67",
+      "range": {
+        "startLine": 30,
+        "startChar": 7,
+        "endLine": 30,
+        "endChar": 42
+      },
+      "revId": "21032b568d1a751cb1ef048639f9e92862b59a1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
