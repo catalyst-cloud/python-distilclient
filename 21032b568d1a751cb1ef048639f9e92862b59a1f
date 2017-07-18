@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "1f1a1f67_3c85d1cf",
+        "filename": "distilclient/v2/health.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-07-18T00:16:43Z",
+      "side": 1,
+      "message": "No, _get() doesn\u0027t work here, see my above TODO comments. Unfortunately, it\u0027s a regression issue, caused by lingxian\u0027s comments at ps 4 :D\n\nI will fix it.",
+      "parentUuid": "1f1a1f67_413d4adb",
+      "range": {
+        "startLine": 32,
+        "startChar": 8,
+        "endLine": 32,
+        "endChar": 30
+      },
+      "revId": "21032b568d1a751cb1ef048639f9e92862b59a1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1f1a1f67_c1015a08",
         "filename": "distilclient/v2/products.py",
         "patchSetId": 6
@@ -59,6 +83,30 @@
       "writtenOn": "2017-07-17T23:35:04Z",
       "side": 1,
       "message": "Could use _get() here instead as well, because currently with no resource_class defined, this call to _list() will exit here:\nhttps://github.com/openstack/python-distilclient/blob/master/distilclient/base.py#L63-L67",
+      "range": {
+        "startLine": 30,
+        "startChar": 7,
+        "endLine": 30,
+        "endChar": 42
+      },
+      "revId": "21032b568d1a751cb1ef048639f9e92862b59a1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f1a1f67_1c6e952e",
+        "filename": "distilclient/v2/products.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 6484
+      },
+      "writtenOn": "2017-07-18T00:16:43Z",
+      "side": 1,
+      "message": "Sorry, we can\u0027t, same reason like health.",
+      "parentUuid": "1f1a1f67_c1015a08",
       "range": {
         "startLine": 30,
         "startChar": 7,
