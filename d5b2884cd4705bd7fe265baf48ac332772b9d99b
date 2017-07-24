@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_715b192e",
+        "filename": "distilclient/v2/invoices.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 22406
+      },
+      "writtenOn": "2017-07-24T04:16:00Z",
+      "side": 1,
+      "message": "You should add docstring for detailed param :)",
+      "revId": "d5b2884cd4705bd7fe265baf48ac332772b9d99b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_3166b1ef",
+        "filename": "distilclient/v2/quotations.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 22406
+      },
+      "writtenOn": "2017-07-24T04:16:00Z",
+      "side": 1,
+      "message": "ditto, add docstring for `detailed`.",
+      "revId": "d5b2884cd4705bd7fe265baf48ac332772b9d99b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
