@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf57530f_64f9037f",
+        "filename": "distilclient/v2/cli.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 6732
+      },
+      "writtenOn": "2017-09-20T23:14:48Z",
+      "side": 1,
+      "message": "oslo_log should be added to requirements.txt",
+      "revId": "3a0e2123e4f5266c0ea4d2383ec9b2de2fbc6b02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf57530f_c47d4fe8",
+        "filename": "distilclient/v2/cli.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 6732
+      },
+      "writtenOn": "2017-09-20T23:14:48Z",
+      "side": 1,
+      "message": "The current output is a json string which is weird as CLI output. Can we use table format as what ListProducts is doing?",
+      "revId": "3a0e2123e4f5266c0ea4d2383ec9b2de2fbc6b02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf57530f_c40aef88",
+        "filename": "setup.cfg",
+        "patchSetId": 6
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 6732
+      },
+      "writtenOn": "2017-09-20T23:14:48Z",
+      "side": 1,
+      "message": "I suggest we use \u0027openstack rating health get\u0027 to comply with openstack CLI naming convention.",
+      "revId": "3a0e2123e4f5266c0ea4d2383ec9b2de2fbc6b02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
